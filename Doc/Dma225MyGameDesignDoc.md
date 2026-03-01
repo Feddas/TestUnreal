@@ -29,3 +29,11 @@ Dramatic Elements
 7. UI comes up to replay the game
 World Building (doesn't apply)
 **Dramatic Tension**: Bear chases player
+
+Bear: Intermediately charging.
+Max Walk Speed: 500cm/s => 2500
+Max Acceleration: 1500 => 2000
+Braking Deceleration Walking: 2000 => 10
+Ground Friction: 8 => 16
+Rotation Rate (Yaw): 500 => 5 (this causes the movement to bug out. Likely going to ignore this setting instead of finding a fix)
+Capsule Radius: 35 => 80 (This causes MoveTo to fail to A* to a path where it's collider can fit. Need to look into a fix)
