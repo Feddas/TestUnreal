@@ -43,13 +43,15 @@ Feel design intents:
 
 ### Bee:
 1. Gravity 1 => 0.5
-2. Mass 100 => 10
+2. Max Acceleration: 1500 => 2000
+3. Mass 100 => 10
+4. Max Walk Speed: 500cm/s => 600
 
 ### Bear:
 1. SKIP ~~Intermediately charging.~~
-2. Max Walk Speed: 500cm/s => 2500
+2. Gravity 1 => 1.75
 3. Max Acceleration: 1500 => 2000
-4. Braking Deceleration Walking: 2000 => 10
-5. Ground Friction: 8 => 16
+4. Ground Friction: 8
+5. Max Walk Speed: 500cm/s => 355cm/s
 6. SKIP ~~Rotation Rate (Yaw): 500 => 5 (this causes the movement to bug out. Likely going to ignore this setting instead of finding a fix)~~
 7. Capsule Radius: 35 => 80 (This causes MoveTo to fail to A* to a path where its collider can fit. Don't take the time to fix, so need simplified levels.)

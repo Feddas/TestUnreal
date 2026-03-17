@@ -1,6 +1,9 @@
 # TestUnreal
 Exploring game creation using Unreal engine during [Bellevue College DMA 225](https://catalog.bellevuecollege.edu/preview_course_nopop.php?catoid=14&coid=57962) in Winter 2026 quarter.
 
+# Analog Assignment
+Goal was to create a physical boardgame. I created a [52-card deck builder](https://github.com/Feddas/TestUnreal/releases/download/1/DMA225Asn5justRules.pdf).
+
 # Assignment 1
 **Goal**: Create a project using the Unreal 3rd person template. Then position a navigatable environment of actors that takes about 5 minutes to fully explore with the player that is included in the template.
 
@@ -14,6 +17,8 @@ My submission uses a color palette from [rainbow colors](https://www.color-meani
 # Assignment 2
 
 **Goal**: Expand Unreal's 3rd person template using an unkillable MoveTo AI actor and custom blueprints to spawn and destroy actors in a way that tells a story.
+
+<img width="75" height="59" alt="image" src="https://github.com/user-attachments/assets/60c454fd-9aaa-4db0-8946-191544eae357" />
 
 **Where to play**: On a windows device run [ShawnLearningUnreal.exe in this .zip](https://github.com/Feddas/TestUnreal/releases/download/2.0/ShawnTyrant2.0.zip).
 
