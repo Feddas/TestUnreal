@@ -20,12 +20,12 @@ My submission uses a color palette from [rainbow colors](https://www.color-meani
 
 <img width="75" height="59" alt="image" src="https://github.com/user-attachments/assets/60c454fd-9aaa-4db0-8946-191544eae357" />
 
-**Where to play**: On a windows device run [ShawnLearningUnreal.exe in this .zip](https://github.com/Feddas/TestUnreal/releases/download/2.0/ShawnTyrant2.0.zip).
+**Where to play**: On a windows device run [ShawnLearningUnreal.exe in this .zip](https://github.com/Feddas/TestUnreal/releases/download/2.2/Shawn2.2Dma225.zip).
 
 **Details**
 - [How to play](./Doc/HowToPlay.md).
 - [Game Design Document](./Doc/Dma225MyGameDesignDoc.md).
-- [Playtest notes](./Doc/logPlaytest.md).
+- [Playtest](./Doc/PlaytestSummary.md).
 
 # Repositories
 GitHub: https://github.com/Feddas/TestUnreal

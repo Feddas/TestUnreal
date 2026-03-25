@@ -1,4 +1,4 @@
-# Steal the honeycomb
+# Porridge Panic
 
 ## How to play
 
